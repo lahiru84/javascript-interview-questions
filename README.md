@@ -43,6 +43,23 @@
 
 ---
 
+<p>Other important content</p>
+
+<pre>
+Compiled Languages
+Compiled languages are converted directly into machine code that the processor can execute. As a result, they tend to be faster and more efficient to execute than interpreted languages. They also give the developer more control over hardware aspects, like memory management and CPU usage.
+
+Compiled languages need a “build” step – they need to be manually compiled first. You need to “rebuild” the program every time you need to make a change. In our hummus example, the entire translation is written before it gets to you. If the original author decides that he wants to use a different kind of olive oil, the entire recipe would need to be translated again and resent to you.
+
+Examples of pure compiled languages are C, C++, Erlang, Haskell, Rust, and Go.
+
+Interpreted Languages
+Interpreters run through a program line by line and execute each command. Here, if the author decides he wants to use a different kind of olive oil, he could scratch the old one out and add the new one. Your translator friend can then convey that change to you as it happens.
+  
+</pre>
+
+----
+
 ### Table of Contents
 
 <!-- TOC_START -->
